@@ -6,7 +6,7 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: terraform-template
-  title: Example Terraform Template for Platform Teams
+  title: New Cloud Terraform Template for Platform Teams
   description: An example template for the scaffolder that creates infrastructure with Terraform
 spec:
   owner: user:guest
